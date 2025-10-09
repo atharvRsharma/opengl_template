@@ -24,7 +24,7 @@
     <ProjectGuid>{d476dbcc-5297-4f6e-b536-f1d905689163}</ProjectGuid>
     <RootNamespace>cellularautomata</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>physics stuff</ProjectName>
+    <ProjectName>template</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
